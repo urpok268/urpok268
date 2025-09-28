@@ -5,9 +5,11 @@ DevOps, Python and Qt Developer
 -------------------------------
 
 🎓 Education & Career
+
 I graduated with a degree in Business Informatics. I work as a DevOps engineer, enjoying development in Python, C++, and Qt.
 
 🛠️ Skills & Tools
+
 I configure servers (Windows and Linux) and work with OpenVPN, Jenkins, Gitea, Nginx, Nextcloud, and XWiki.
 I have experience with microcontrollers (STM32, Arduino), as well as audio and video technologies (ffmpeg, Hugging Face, espnet).
 
