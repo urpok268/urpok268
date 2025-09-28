@@ -13,19 +13,19 @@ I have experience with microcontrollers (STM32, Arduino), as well as audio and v
 
 📂 Projects
 
-Airport Management System (Qt, C++) – Thesis project with role-based authentication (dispatcher, mechanic, inspector, admin) and vehicle tracking/reporting.
+* Airport Management System (Qt, C++) – Thesis project with role-based authentication (dispatcher, mechanic, inspector, admin) and vehicle tracking/reporting.
 
-Mapping Server (Qt + OpenStreetMap/Leaflet) – Developed a custom cartographic server and visualization tools.
+* Mapping Server (Qt + OpenStreetMap/Leaflet) – Developed a custom cartographic server and visualization tools.
 
-XWiki Survey & Reporting System – Built forms, reports, and dynamic charts for test/quiz data using Velocity, JavaScript, and custom document naming automation.
+* XWiki Survey & Reporting System – Built forms, reports, and dynamic charts for test/quiz data using Velocity, JavaScript, and custom document naming automation.
 
-Real-time Speech Recognition Tool (Whisper + Hugging Face) – Streaming audio transcription and transformation with Python, optimized for live translation tasks.
+* Real-time Speech Recognition Tool (Whisper + Hugging Face) – Streaming audio transcription and transformation with Python, optimized for live translation tasks.
 
-Video Downloader with GUI (PyInstaller + ffmpeg) – Packaged cross-platform application for downloading and processing videos.
+* Video Downloader with GUI (PyInstaller + ffmpeg) – Packaged cross-platform application for downloading and processing videos.
 
-DevOps Infrastructure Automation – Set up CI/CD pipelines with Jenkins, self-hosted Git (Gitea), VPN access via OpenVPN, and integrated file-sharing solutions with Nextcloud.
+* DevOps Infrastructure Automation – Set up CI/CD pipelines with Jenkins, self-hosted Git (Gitea), VPN access via OpenVPN, and integrated file-sharing solutions with Nextcloud.
 
-Embedded Systems (STM32, Arduino + nRF24L01) – Built prototypes for wireless communication and microcontroller-based control systems.
+* Embedded Systems (STM32, Arduino + nRF24L01) – Built prototypes for wireless communication and microcontroller-based control systems.
 
 🎤 Interests
 I have a particular interest in speech recognition technologies and am experimenting with Whisper.
