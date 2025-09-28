@@ -29,6 +29,7 @@ I enjoy understanding networking tasks and automation.
 <a href="https://www.x.com/AnonCoder2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AnonCoder2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
