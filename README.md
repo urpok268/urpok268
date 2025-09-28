@@ -30,6 +30,7 @@ I have experience with microcontrollers (STM32, Arduino), as well as audio and v
 * Embedded Systems (STM32, Arduino + nRF24L01) – Built prototypes for wireless communication and microcontroller-based control systems.
 
 🎤 Interests
+
 I have a particular interest in speech recognition technologies and am experimenting with Whisper.
 I enjoy tackling networking tasks and building automation solutions.
 
