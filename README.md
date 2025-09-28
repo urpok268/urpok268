@@ -4,17 +4,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps, Python and Qt Developer
 -------------------------------
 
-I graduated with a degree in Business Informatics. I work as a DevOps engineer, enjoying development in Python, C++, and Qt. I configure servers (Windows and Linux), and work with OpenVPN, Jenkins, Gitea, Nginx, Nextcloud, and XWiki.
+🎓 Education & Career
+I graduated with a degree in Business Informatics. I work as a DevOps engineer, enjoying development in Python, C++, and Qt.
 
+🛠️ Skills & Tools
+I configure servers (Windows and Linux) and work with OpenVPN, Jenkins, Gitea, Nginx, Nextcloud, and XWiki.
 I have experience with microcontrollers (STM32, Arduino), as well as audio and video technologies (ffmpeg, Hugging Face, espnet).
 
-For my thesis project, I developed an airport system with role-based authentication and vehicle tracking.
+📂 Projects
 
-I also worked on developing a mapping server in Qt.
+Airport Management System (Qt, C++) – Thesis project with role-based authentication (dispatcher, mechanic, inspector, admin) and vehicle tracking/reporting.
 
+Mapping Server (Qt + OpenStreetMap/Leaflet) – Developed a custom cartographic server and visualization tools.
+
+XWiki Survey & Reporting System – Built forms, reports, and dynamic charts for test/quiz data using Velocity, JavaScript, and custom document naming automation.
+
+Real-time Speech Recognition Tool (Whisper + Hugging Face) – Streaming audio transcription and transformation with Python, optimized for live translation tasks.
+
+Video Downloader with GUI (PyInstaller + ffmpeg) – Packaged cross-platform application for downloading and processing videos.
+
+DevOps Infrastructure Automation – Set up CI/CD pipelines with Jenkins, self-hosted Git (Gitea), VPN access via OpenVPN, and integrated file-sharing solutions with Nextcloud.
+
+Embedded Systems (STM32, Arduino + nRF24L01) – Built prototypes for wireless communication and microcontroller-based control systems.
+
+🎤 Interests
 I have a particular interest in speech recognition technologies and am experimenting with Whisper.
-
-I enjoy understanding networking tasks and automation.
+I enjoy tackling networking tasks and building automation solutions.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [melkumyandenis@mail.ru](mailto:melkumyandenis@mail.ru)
